@@ -1,5 +1,12 @@
 numpy
 pandas
 scikit-learn
-nltk
+beautifulsoup4
 gradio
+nltk
+matplotlib
+seaborn
+gensim
+tensorflow
+keras
+plotly
